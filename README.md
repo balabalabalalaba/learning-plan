@@ -1,2 +1,2 @@
-This is my lerning plan written by EXCEL.
+This is my learning plan written by EXCEL.
 
