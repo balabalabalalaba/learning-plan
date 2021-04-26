@@ -1,2 +1,7 @@
-This is my learning plan written by EXCEL.
+#This is my learning plan written by EXCEL.
+##使用指南
 
+目前最新版是2020-21second，可以直接在这个文件上修改自己的计划，
+在使用的时候，一定要在"文件"->"选项"->"加载项"中的"管理"处选择
+"Excel加载项"，然后点击"转到"，再点击"浏览"，选择本目录中的color
+文件即可（打上小勾）
